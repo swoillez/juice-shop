@@ -16,7 +16,7 @@ import * as utils from '../lib/utils'
 
 // SW : This is a new issue to trigger PR scan
 
-const hardcoded_api_key = "AWS_SECRET_KEY_EXAMPLE_FOR_DEMO_DO_NOT_USE";
+const hardcoded_api_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
 
 // vuln-code-snippet start loginAdminChallenge loginBenderChallenge loginJimChallenge
 export function login () {
